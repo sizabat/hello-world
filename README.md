@@ -1,2 +1,4 @@
 # hello-world
-This is my example repository
+
+Halo, my name is Tommy Sizabat
+My passion is in Web Development
